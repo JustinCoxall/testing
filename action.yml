@@ -1,0 +1,10 @@
+name: 
+description: 
+runs:
+  using: "composite"
+  steps:
+    - run: echo Hello world!
+      shell: pwsh
+branding: 
+  icon: terminal
+  color: blue
